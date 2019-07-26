@@ -1,0 +1,24 @@
+{
+  "name": "chat_nodejs",
+  "version": "1.0.0",
+  "description": "xd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerDW/chat-nodejs.git"
+  },
+  "author": "kerdw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KerDW/chat-nodejs/issues"
+  },
+  "homepage": "https://github.com/KerDW/chat-nodejs#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
